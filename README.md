@@ -1,9 +1,9 @@
 ### Olá! 👋
 
 - 💼 Atualmente estou trabalhando na DXC Technology
-- 🌱 Atualmente estou aprendendo Java
-- 👨🏻‍🎓 Aluno na FATEC de Taquaritinga
-- 👨🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente estou aprendendo Business Intelligence
+- 👨🏻‍🎓 Sou formado na FATEC de Taquaritinga
+- 👨🏻‍💻 Cursei Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/VitorMecene">
